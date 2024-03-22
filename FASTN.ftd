@@ -3,17 +3,10 @@
 -- fastn.package: fastn-community.github.io/yellow-green-mesh-gradient
 favicon: /-/fastn-community.github.io/yellow-green-mesh-gradient/favicon.ico
 
--- fastn.dependency: fastn-community.github.io/doc-site as doc-site
--- fastn.dependency: fastn-community.github.io/footer
--- fastn.dependency: fastn-community.github.io/roboto-typography
--- fastn.dependency: fastn-community.github.io/dark-flame-cs
+-- fastn.dependency: fastn-community.github.io/inter-typography
+-- fastn.dependency: fastn-community.github.io/design-system
+provided-via: fastn-community.github.io/yellow-green-mesh-gradient/ds
 
--- fastn.auto-import: fastn-community.github.io/yellow-green-mesh-gradient/FASTN/ds
 -- fastn.auto-import: fastn-community.github.io/yellow-green-mesh-gradient/assets
--- fastn.auto-import: doc-site
-
--- fastn.sitemap:
-
-# Home: index.html
-
-- Right Sidebar Sample: /sidebar/
+-- fastn.auto-import: fastn-community.github.io/yellow-green-mesh-gradient/ds
+-- fastn.auto-import: fastn-community.github.io/yellow-green-mesh-gradient/lib

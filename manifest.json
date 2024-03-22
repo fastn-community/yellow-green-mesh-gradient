@@ -2,13 +2,8 @@
   "files": {
     "FASTN.ftd": {
       "name": "FASTN.ftd",
-      "checksum": "2468C374F5896730FE4679087FB92EF97FB9A9118F749346E269CE6FFF2DBB22",
-      "size": 687
-    },
-    "FASTN/ds.ftd": {
-      "name": "FASTN/ds.ftd",
-      "checksum": "412F6EE4683A9381743A33FBFDE0896CC0C1C7E7EB2CDFF5175DAE649BB044B8",
-      "size": 2371
+      "checksum": "DF5A38E3A4A7AF77B85F8F330F80E6A4990584845AFBD2763231744DA1071AD2",
+      "size": 602
     },
     "README.md": {
       "name": "README.md",
@@ -20,15 +15,55 @@
       "checksum": "A42D91290C93B5F17412C3B346737EA1C796E5D287306758AFE8B20470119D80",
       "size": 21
     },
-    "assets/ipsum-logo-dark.svg": {
-      "name": "assets/ipsum-logo-dark.svg",
-      "checksum": "8290B3397C465FE1BB40B7CA280C976DF7DA3DABFC655B429805ABF33964FB5B",
-      "size": 16202
+    "assets/background.jpg": {
+      "name": "assets/background.jpg",
+      "checksum": "6715A37228AE8CF85B04E6A531A65F829D62914C50AB21F105097A7DBB56D7D2",
+      "size": 1550400
     },
-    "assets/ipsum-logo.svg": {
-      "name": "assets/ipsum-logo.svg",
-      "checksum": "A227CF22E798ACFB2D01B6352FC22A28047444F028AF05440C6CE6F9499C0EDF",
-      "size": 15494
+    "assets/icon-1.svg": {
+      "name": "assets/icon-1.svg",
+      "checksum": "F3C6C6E661D6B9626B764033A45886C1AAA4049899BA7096F07FB23B7693B59D",
+      "size": 625
+    },
+    "assets/icon-2.svg": {
+      "name": "assets/icon-2.svg",
+      "checksum": "D6A83E86D5378F3313FA5C5B600F0E3E641837D7B8C481E2D5BEB93E3C0BDC85",
+      "size": 1906
+    },
+    "assets/icon-3.svg": {
+      "name": "assets/icon-3.svg",
+      "checksum": "379A1A122C11C475C8A99186287254B6419AE0A5884DC2092D0ABDBDCB912731",
+      "size": 3148
+    },
+    "assets/icon-4.svg": {
+      "name": "assets/icon-4.svg",
+      "checksum": "CAE205FB6D70622EB9DD1681B00ECF0291CDF5EE43462A90B980BA8209F554B9",
+      "size": 987
+    },
+    "assets/icon-5.svg": {
+      "name": "assets/icon-5.svg",
+      "checksum": "257A9075E00AE09906A4A0A7E8767F0BB226CC13976F62B4C6A583FDE7E8693B",
+      "size": 1412
+    },
+    "assets/icon-6.svg": {
+      "name": "assets/icon-6.svg",
+      "checksum": "683326D6C348DC66AAFFD9ED58456ADE3D9D554B4E451E342254EC6BA05B8A5D",
+      "size": 1243
+    },
+    "assets/logo.svg": {
+      "name": "assets/logo.svg",
+      "checksum": "B215885035689DC2B16F76098169A46B1EB65D241E0CA161AAE9F593978ACB2D",
+      "size": 4540
+    },
+    "assets/thumbnail.png": {
+      "name": "assets/thumbnail.png",
+      "checksum": "1D8BDD894B1EA7E4F162AA99294150991E0635D41DD5B2E9A93F912184464C1B",
+      "size": 481296
+    },
+    "ds.ftd": {
+      "name": "ds.ftd",
+      "checksum": "1346A238D011D4EA272657C9BAFDEF85C84C6CC98A8C70BD69408D3A5E2D0757",
+      "size": 910
     },
     "favicon.ico": {
       "name": "favicon.ico",
@@ -37,13 +72,18 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "32532606DDF89B56B42BA173EEAC7F7E9006DEEC07ABF10F6ABE246DC0EC1482",
-      "size": 1190
+      "checksum": "571905EC034F2C956A748BFA0396D86997158D5F860C342F0827619A359B0CD2",
+      "size": 881
     },
-    "sidebar.ftd": {
-      "name": "sidebar.ftd",
-      "checksum": "98EA5E5D5540AA8CCFA6C4ABEE6C2D476F6E1310B6B7E8978E81F62368EFA035",
-      "size": 1281
+    "lib.ftd": {
+      "name": "lib.ftd",
+      "checksum": "F38ED190AB2CB776A1C0F0F1BAE33098E8EEE383AD8977AECF0CF2A134D5453C",
+      "size": 2472
+    },
+    "themecolors.ftd": {
+      "name": "themecolors.ftd",
+      "checksum": "AC63CF0E9092D11254EE10E073C3F0E8F7992B8F7D565EF31CAC174A62424A19",
+      "size": 6480
     },
     "vercel.json": {
       "name": "vercel.json",
@@ -52,5 +92,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/fastn-community/yellow-green-mesh-gradient/zip/refs/heads/main",
-  "checksum": "810E51EFF2061C795DA8F743C5F0A4468DDF497D30E95590BAA55F7E6C189C75"
+  "checksum": "219A80FE81FE7B6D07AD4D4EEAA7C0A86EDCF5F958640FF4D847B4870C849573"
 }
