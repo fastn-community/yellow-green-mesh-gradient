@@ -72,8 +72,8 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "571905EC034F2C956A748BFA0396D86997158D5F860C342F0827619A359B0CD2",
-      "size": 881
+      "checksum": "5AFCB7AB4A7E5684E126CAFC1781265137F8264AE86624560564CBEC11318534",
+      "size": 896
     },
     "lib.ftd": {
       "name": "lib.ftd",
@@ -92,5 +92,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/fastn-community/yellow-green-mesh-gradient/zip/refs/heads/main",
-  "checksum": "219A80FE81FE7B6D07AD4D4EEAA7C0A86EDCF5F958640FF4D847B4870C849573"
+  "checksum": "E16A5B45EA4C80ADD680846C39C81E0008D401D3960F56CA9DE8991E48CE5327"
 }
